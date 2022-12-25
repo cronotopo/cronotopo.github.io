@@ -38,6 +38,15 @@ dl, dd, ol, ul, figure {
   }
 }
 
+.logo-post {
+  display: flex;
+
+  img {
+    width: auto;
+    height: 128px;
+  }
+}
+
 /**
  * Basic styling
  */

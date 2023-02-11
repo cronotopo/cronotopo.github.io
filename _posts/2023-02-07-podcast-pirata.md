@@ -19,6 +19,9 @@ Assange cria um novo modo de operar o jornalismo e revoluciona a maneira como as
 ## ☠ O podcast
 O Partido Pirata está pronto para ouvi-lo. Mande seus comentários para podcast@partidopirata.org.
 
+Acesse aqui o Podcast pelos agregadores ou ouça a Parte 1 abaixo: [PodPiratear](http://linktr.ee/podpiratear)
+
+<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="90%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=podpiratear-GOBLnN&ge=s1!8c6f22ea3bb812a883f9d9b06e129ccfcf8b47af"></iframe>
 
 ```html
 por @TaDrel

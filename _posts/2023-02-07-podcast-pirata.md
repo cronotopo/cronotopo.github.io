@@ -7,7 +7,7 @@ categories: ensaios
 
 ¡Ahoy!
 
-## ⚓PodPiratear, o novo podcast do Partido Pirata
+## ⚓ PodPiratear, o novo podcast do Partido Pirata
 O Partido Pirata lança essa semana uma iniciativa de podcast para discutir política e internet. Inicialmente, será lançada uma série de três episódios sobre Julian Assange, o cyberativista e jornalista australiano perseguido por divulgar informações sigilosas de governos e empresas do mundo todo, expondo abusos e crimes de outra forma inacessíveis, não divulgados por nenhum outro meio até então. 
 
 ## Relevância histórica

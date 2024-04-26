@@ -1,2 +1,2 @@
-# Coletivo Cronotopo
-Site do coletivo
+# Site - Coletivo Cronotopo
+Piratas cibernéticos defendendo a neutralidade da Internet.

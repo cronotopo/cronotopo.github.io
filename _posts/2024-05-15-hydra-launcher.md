@@ -18,7 +18,7 @@ Quem sabe? Talvez, em um mundo onde as ideias são tão persistentes quanto as e
 
 Ficou interessado no launcher? Você pode baixar ele pelo GitHub.com [aqui](https://github.com/hydralauncher/hydra/releases).
 
-Há uma entrevista feita pelo portal Tecmundo com a Voxel e você encontra aqui [aqui](https://www.tecmundo.com.br/voxel/282344-exclusivo-hydra-brasileiros-lancam-steam-pirataria-nao-derrubada.htm).
+Há uma entrevista feita pelo portal Tecmundo com a Voxel e você encontra [aqui](https://www.tecmundo.com.br/voxel/282344-exclusivo-hydra-brasileiros-lancam-steam-pirataria-nao-derrubada.htm).
 
 ```html
 por @ferox

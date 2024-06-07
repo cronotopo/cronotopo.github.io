@@ -5,8 +5,6 @@ date:   2024-05-24
 categories: ensaios
 ---
 
-O Renascimento da Z-Library: A volta da Alexandria dos Piratas
-
 ## A Z-Library
 Vamos falar sobre a Z-Library, a gloriosa biblioteca digital que, durante a pandemia, se tornou o paraíso dos bibliófilos clandestinos. Afinal, nada como uma pandemia global para aumentar nosso desejo por livros gratuitos, não é? A Z-Library, no auge da sua glória pirata, oferecia mais de 11 milhões de livros e 84 milhões de artigos. Sim, você leu certo: milhões. Era como um buffet literário onde todos podiam se empanturrar sem pagar a conta. Mas, como dizem, tudo que é bom dura pouco. E, infelizmente para os ratos de biblioteca digitais, a festa acabou.
 

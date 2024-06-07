@@ -5,8 +5,6 @@ date:   2024-05-28
 categories: ensaios
 ---
 
-Desconectado e Sobrevivendo
-
 ## Gotardo, o Engenheiro de Software que viveu um mês sem Redes Sociais
 Ah, as maravilhas da vida digital! Que época gloriosa para estar vivo, onde a privacidade é um conceito tão arcaico quanto mandar uma carta pelo correio. Mas, surpresa das surpresas, Gotardo, de 35 anos, natural de Taperoá decidiu fazer o impensável: viver sem celular por um mês. Isso mesmo, um mês inteirinho sem esse pequeno dispositivo mágico que nos faz sentir importantes ao recebermos curtidas e comentários aleatórios de estranhos.
 
